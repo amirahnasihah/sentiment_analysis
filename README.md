@@ -20,3 +20,8 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import LSTM,Dense,Dropout,SpatialDropout1D
 from tensorflow.keras.layers import Embedding
 ```
+
+![Web capture_4-3-2022_22318_colab research google com](https://user-images.githubusercontent.com/89834315/156893273-271855a5-571b-4a93-a33c-f6d905c78f7a.jpeg)
+
+![Web capture_4-3-2022_22219_colab research google com](https://user-images.githubusercontent.com/89834315/156893279-92692a9a-cee7-410a-a245-f678eb935190.jpeg)
+
